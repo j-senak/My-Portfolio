@@ -139,6 +139,10 @@ p {
   color: #fff;
 }
 
+ul {
+  color: #fff;
+}
+
 #about-image {
   /* Positioning */
   float: left;
@@ -153,7 +157,10 @@ p {
 /* PORTFOLIO PAGE */
 .port-image {
   margin: 20px auto;
+  width: 350px;
+  height: 350px;
 }
+
 /* END PORTFOLIO PAGE */
 
 
