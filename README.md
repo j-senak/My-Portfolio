@@ -1,1 +1,1 @@
-# homework-7-UpdatedPortfolio
+Thank you for looking at my portfolio site.
